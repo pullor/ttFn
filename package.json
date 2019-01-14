@@ -1,0 +1,22 @@
+{
+  "name": "ttfn",
+  "version": "1.0.1",
+  "description": "a function repertory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ttfn": "./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pullor/ttFn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pullor/ttFn/issues"
+  },
+  "homepage": "https://github.com/pullor/ttFn#readme"
+}
